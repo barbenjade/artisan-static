@@ -22,3 +22,4 @@ ___
 - Facebook Open Graph and Twitter Card meta tags
 - Comments: [Disqus](https://disqus.com)
 - Contact form: [Jumprock](https://jumprock.co)
+- Content "content"
