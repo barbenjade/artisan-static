@@ -21,5 +21,5 @@ ___
 - Share buttons: [sharer.js](https://github.com/ellisonleao/sharer.js)
 - Facebook Open Graph and Twitter Card meta tags
 - Comments: [Disqus](https://disqus.com)
-- Contact form: [Jumprock](https://jumprock.co)
+- Contact form: [Jumprock](https://jumprock.co)..
 - Content "content"
